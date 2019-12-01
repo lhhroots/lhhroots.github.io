@@ -1933,7 +1933,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #83cc75;
+  background: #b006ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2744,7 +2744,7 @@ pre .javascript .function {
   padding: 0;
   width: 240px;
   background: #fff;
-  opacity: 0.9;
+  opacity: 1;
   box-shadow: initial;
   border-radius: initial;
 }
@@ -3128,8 +3128,8 @@ body {
   background: rgba(255,255,255,0.9);
 }
 .header-inner {
-  opacity: 0.8;
+  opacity: 1;
 }
 .main-inner {
-  opacity: 0.8;
+  opacity: 0.9;
 }

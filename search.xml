@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello everyone</title>
-    <url>/2019/10/27/hello-world/</url>
-    <content><![CDATA[<p>Hello, Welcome to my blog!</p>
-]]></content>
-      <categories>
-        <category>start</category>
-      </categories>
-      <tags>
-        <tag>hello</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>知识图谱关键技术与问答系统</title>
     <url>/2019/10/27/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h1 id="知识图谱"><a href="#知识图谱" class="headerlink" title="知识图谱"></a>知识图谱</h1><a id="more"></a>
@@ -31,6 +19,18 @@
       </categories>
       <tags>
         <tag>技术梳理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello everyone</title>
+    <url>/2019/10/27/hello-world/</url>
+    <content><![CDATA[<p>Hello, Welcome to my blog!</p>
+]]></content>
+      <categories>
+        <category>start</category>
+      </categories>
+      <tags>
+        <tag>hello</tag>
       </tags>
   </entry>
   <entry>
@@ -136,7 +136,7 @@
     <content><![CDATA[<h1 id="2019论文阅读清单"><a href="#2019论文阅读清单" class="headerlink" title="2019论文阅读清单"></a>2019论文阅读清单</h1><a id="more"></a>
 <br>
 
-<h2 id="更多内容详见"><a href="#更多内容详见" class="headerlink" title="更多内容详见"></a><a href="https://github.com/lihanghang/Knowledge-Graph" target="_blank" rel="noopener">更多内容详见</a></h2><h2 id="对抗神经网络（GANs）"><a href="#对抗神经网络（GANs）" class="headerlink" title="对抗神经网络（GANs）"></a>对抗神经网络（GANs）</h2><ol>
+<h2 id="更多内容详见"><a href="#更多内容详见" class="headerlink" title="更多内容详见"></a><a href="https://github.com/lihanghang/Knowledge-Graph">更多内容详见</a></h2><h2 id="对抗神经网络（GANs）"><a href="#对抗神经网络（GANs）" class="headerlink" title="对抗神经网络（GANs）"></a>对抗神经网络（GANs）</h2><ol>
 <li>《Generative Adverarial Networks:An Overview》 —1月</li>
 <li>Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio.2014. Generative Adversarial Networks.</li>
 </ol>
@@ -146,11 +146,11 @@
 <li>J. Feng, Y. Yu, Z.-H. Zhou. Multi-layered gradient boosting decision trees. In: Advances in Neural Information Processing Systems 31 (NIPS’18), Montreal, Canada, 2018.</li>
 </ol>
 <h2 id="声学模型"><a href="#声学模型" class="headerlink" title="声学模型"></a>声学模型</h2><ol>
-<li><a href="https://blog.csdn.net/qq_37572875/article/details/77899491" target="_blank" rel="noopener">https://blog.csdn.net/qq_37572875/article/details/77899491</a></li>
-<li><a href="http://www.eeboard.com/news/yuyinshibie/" target="_blank" rel="noopener">http://www.eeboard.com/news/yuyinshibie/</a></li>
-<li><a href="http://www.doc88.com/p-2137495691629.html" target="_blank" rel="noopener">http://www.doc88.com/p-2137495691629.html</a></li>
-<li><a href="https://www.jianshu.com/p/16fc3712fdf6" target="_blank" rel="noopener">https://www.jianshu.com/p/16fc3712fdf6</a></li>
-<li><a href="https://blog.csdn.net/abcjennifer/article/details/27346787" target="_blank" rel="noopener">https://blog.csdn.net/abcjennifer/article/details/27346787</a></li>
+<li><a href="https://blog.csdn.net/qq_37572875/article/details/77899491">https://blog.csdn.net/qq_37572875/article/details/77899491</a></li>
+<li><a href="http://www.eeboard.com/news/yuyinshibie/">http://www.eeboard.com/news/yuyinshibie/</a></li>
+<li><a href="http://www.doc88.com/p-2137495691629.html">http://www.doc88.com/p-2137495691629.html</a></li>
+<li><a href="https://www.jianshu.com/p/16fc3712fdf6">https://www.jianshu.com/p/16fc3712fdf6</a></li>
+<li><a href="https://blog.csdn.net/abcjennifer/article/details/27346787">https://blog.csdn.net/abcjennifer/article/details/27346787</a></li>
 </ol>
 ]]></content>
       <categories>
@@ -300,8 +300,8 @@
     <title>技术博客汇总</title>
     <url>/2018/05/29/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB/</url>
     <content><![CDATA[<h2 id="优秀博客"><a href="#优秀博客" class="headerlink" title="优秀博客"></a>优秀博客</h2><a id="more"></a>
-<p> <a href="https://blog.csdn.net/lihangll/" target="_blank" rel="noopener">Hang-Hang Machine Intelligence Family</a></p>
-<h2 id="计算机视觉（CV）"><a href="#计算机视觉（CV）" class="headerlink" title="计算机视觉（CV）"></a>计算机视觉（CV）</h2><p><a href="https://mp.weixin.qq.com/s/0Kt22jsp4J5akCJzZ9Es_w" target="_blank" rel="noopener">计算机视觉已超越人类眼睛？腾讯优图与《科学》杂志全面解读–来源：腾讯优图</a></p>
+<p> <a href="https://blog.csdn.net/lihangll/">Hang-Hang Machine Intelligence Family</a></p>
+<h2 id="计算机视觉（CV）"><a href="#计算机视觉（CV）" class="headerlink" title="计算机视觉（CV）"></a>计算机视觉（CV）</h2><p><a href="https://mp.weixin.qq.com/s/0Kt22jsp4J5akCJzZ9Es_w">计算机视觉已超越人类眼睛？腾讯优图与《科学》杂志全面解读–来源：腾讯优图</a></p>
 <h2 id="云计算"><a href="#云计算" class="headerlink" title="云计算"></a>云计算</h2><h2 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h2><h2 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h2>]]></content>
       <categories>
         <category>技术博客汇总</category>
@@ -345,19 +345,19 @@
 
 <blockquote>
 <ol>
-<li><a href="http://www.springer.com/us/book/9781402076947" target="_blank" rel="noopener">《Convergence Analysis of Recurrent Neural Networks》</a>,Authors: Zhang Yi</li>
+<li><a href="http://www.springer.com/us/book/9781402076947">《Convergence Analysis of Recurrent Neural Networks》</a>,Authors: Zhang Yi</li>
 </ol>
 </blockquote>
 <h2 id="deep-learning"><a href="#deep-learning" class="headerlink" title="deep learning"></a>deep learning</h2><blockquote>
 <ol>
-<li><a href="https://arxiv.org/abs/1702.05747" target="_blank" rel="noopener">《A Survey on Deep Learning in Medical Image Analysis》</a>,Authors:Geert Litjens etc.</li>
-<li><a href="https://arxiv.org/abs/1410.3916" target="_blank" rel="noopener">《Memory Network》</a>,Submitted on 15 Oct 2014||Authors:Jason Weston, Sumit Chopra, Antoine Bordes.</li>
-<li><a href="https://arxiv.org/abs/1503.08895" target="_blank" rel="noopener">《End to end Memory Networks》</a>,Submitted on 31 Mar 2015 (v1)||Authors:Jason Weston etc.</li>
+<li><a href="https://arxiv.org/abs/1702.05747">《A Survey on Deep Learning in Medical Image Analysis》</a>,Authors:Geert Litjens etc.</li>
+<li><a href="https://arxiv.org/abs/1410.3916">《Memory Network》</a>,Submitted on 15 Oct 2014||Authors:Jason Weston, Sumit Chopra, Antoine Bordes.</li>
+<li><a href="https://arxiv.org/abs/1503.08895">《End to end Memory Networks》</a>,Submitted on 31 Mar 2015 (v1)||Authors:Jason Weston etc.</li>
 </ol>
 </blockquote>
 <h2 id="projects"><a href="#projects" class="headerlink" title="projects"></a>projects</h2><blockquote>
 <ol>
-<li><a href="https://github.com/lihanghang/Enterprise_Credit_Analysis" target="_blank" rel="noopener">《企业信息查询与智能分析系统》</a>,2018||Hang-Hang Li.</li>
+<li><a href="https://github.com/lihanghang/Enterprise_Credit_Analysis">《企业信息查询与智能分析系统》</a>,2018||Hang-Hang Li.</li>
 </ol>
 </blockquote>
 <h2 id="others"><a href="#others" class="headerlink" title="others"></a>others</h2>]]></content>
