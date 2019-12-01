@@ -1933,7 +1933,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8b79ff;
+  background: #aba3ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3115,7 +3115,7 @@ pre .javascript .function {
 }
 @media (max-width: 767px) {
   .post-body {
-    text-align: justify;
+    text-align: center;
   }
 }
 body {

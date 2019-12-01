@@ -3,8 +3,7 @@
   <entry>
     <title>知识图谱关键技术与问答系统</title>
     <url>/2019/10/27/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<center>**知识图谱**</center>
-<a id="more"></a>
+    <content><![CDATA[<h1 id="知识图谱"><a href="#知识图谱" class="headerlink" title="知识图谱"></a>知识图谱</h1><a id="more"></a>
 <br>
 
 
@@ -25,7 +24,7 @@
   <entry>
     <title>Hello everyone</title>
     <url>/2019/10/27/hello-world/</url>
-    <content><![CDATA[<p>Welcome to my blog!</p>
+    <content><![CDATA[<p>Hello, Welcome to my blog!</p>
 ]]></content>
       <categories>
         <category>start</category>
@@ -37,10 +36,7 @@
   <entry>
     <title>文因互联公司面试小记</title>
     <url>/2019/06/16/%E6%96%87%E5%9B%A0%E4%BA%92%E8%81%94%E5%85%AC%E5%8F%B8%E9%9D%A2%E8%AF%95%E5%B0%8F%E8%AE%B0/</url>
-    <content><![CDATA[<center>**面试心路历程**</center>
-
-
-<h2 id="笔试"><a href="#笔试" class="headerlink" title="笔试"></a>笔试</h2><ul>
+    <content><![CDATA[<h1 id="面试历程"><a href="#面试历程" class="headerlink" title="面试历程"></a>面试历程</h1><h2 id="笔试"><a href="#笔试" class="headerlink" title="笔试"></a>笔试</h2><ul>
 <li>端午节前后，我邮件收到公司一份（后缀为.md）的笔试题，我心里想难道可以查资料做笔试题吗，果不然邮件下注明了可查阅相关资料完成。<a id="more"></a></li>
 <li>首先，这打破了我对笔试考察方式的认知；其次，我在想这究竟是一家怎样公司，断定其肯定亮点之处；最后，为了能有机会去感受公司的文化和特色，我下定决心一定要极其认真的做好这份笔试题。</li>
 <li>看过作答要求和提交时间节点，我打开了这份笔试题，很全面包含编程基础、脚本、调试、代码实现、个人规划、阅读书籍等部分。</li>
@@ -74,7 +70,7 @@
 </ul>
 ]]></content>
       <categories>
-        <category>面试</category>
+        <category>求职与面试</category>
       </categories>
       <tags>
         <tag>求职</tag>
@@ -128,7 +124,7 @@
 <p>截止2019年11月17日共计22本</p>
 ]]></content>
       <categories>
-        <category>读书</category>
+        <category>日常读书</category>
       </categories>
       <tags>
         <tag>读书</tag>
@@ -137,8 +133,7 @@
   <entry>
     <title>2019论文阅读清单</title>
     <url>/2019/01/06/2019%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E6%B8%85%E5%8D%95/</url>
-    <content><![CDATA[<center>**2019论文阅读清单**</center>
-<a id="more"></a>
+    <content><![CDATA[<h1 id="2019论文阅读清单"><a href="#2019论文阅读清单" class="headerlink" title="2019论文阅读清单"></a>2019论文阅读清单</h1><a id="more"></a>
 <br>
 
 <h2 id="更多内容详见"><a href="#更多内容详见" class="headerlink" title="更多内容详见"></a><a href="https://github.com/lihanghang/Knowledge-Graph" target="_blank" rel="noopener">更多内容详见</a></h2><h2 id="对抗神经网络（GANs）"><a href="#对抗神经网络（GANs）" class="headerlink" title="对抗神经网络（GANs）"></a>对抗神经网络（GANs）</h2><ol>
@@ -159,7 +154,7 @@
 </ol>
 ]]></content>
       <categories>
-        <category>论文</category>
+        <category>机器智能论文阅读</category>
       </categories>
       <tags>
         <tag>论文</tag>
@@ -168,12 +163,10 @@
   <entry>
     <title>2018年度总结</title>
     <url>/2018/12/30/2018%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<center>**再见2018**</center>
----
-您好，您乘坐的2018号列车，即将到站！感谢各位的一路陪伴与支持，相信每个人都有关于这一路回忆和对下一程的期许吧。
+    <content><![CDATA[<h1 id="再见2018"><a href="#再见2018" class="headerlink" title="再见2018"></a>再见2018</h1><hr>
+<p>您好，您乘坐的2018号列车，即将到站！感谢各位的一路陪伴与支持，相信每个人都有关于这一路回忆和对下一程的期许吧。</p>
 <a id="more"></a>
-2018年12月29日星期六，2018年的最后一个工作日。我在北京将再次迎接新年到来。回顾这一年，有些已经淡忘，但总有
-
+<p>2018年12月29日星期六，2018年的最后一个工作日。我在北京将再次迎接新年到来。回顾这一年，有些已经淡忘，但总有</p>
 <p>2018年在西安家里度过约一月，在成都外婆家一周左右，在北京工作学习数月；2018年参与完成课题项目1项，人工智能专业知识体系学习并不断完善；2018年专业之外读书10余本左右，涉及人文（中外文）、心理、散文、记叙文等，自购书3本。去往国家图书馆2次、国家博物馆参观1次；2018年参加参与大型学术会议2次：北京国际会议中心（云计算类）、中国科院大学雁栖国际会议中心（医学人工智能类）；2018年集体游于慕田峪长城、雁栖湖风景区；2018年…………。</p>
 <p>2018生活</p>
 <p>这一年身体管理不错。个人身体锻炼次数有所增加，坚持锻炼的天数最长持续了近一个月，总的来说，这一年身体素质还是比较好，每天基本上能够保持精神饱满，没有因其而耽误工作学习。三餐基本能按时保证，体重比2017年增加约7斤左右（哈哈，距离目标体重还差一半）。</p>
@@ -192,6 +185,9 @@
 <pre><code>        李航航
 
 2018年12月30日星期日</code></pre>]]></content>
+      <categories>
+        <category>个人总结</category>
+      </categories>
       <tags>
         <tag>年度总结</tag>
       </tags>
@@ -199,8 +195,7 @@
   <entry>
     <title>论文阅读与写作</title>
     <url>/2018/09/03/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E4%B8%8E%E5%86%99%E4%BD%9C/</url>
-    <content><![CDATA[<center>**论文阅读方法**</center>
-<a id="more"></a>
+    <content><![CDATA[<h1 id="论文阅读方法"><a href="#论文阅读方法" class="headerlink" title="论文阅读方法"></a>论文阅读方法</h1><a id="more"></a>
 <br>
 
 
@@ -223,7 +218,7 @@
 
 ]]></content>
       <categories>
-        <category>论文笔记</category>
+        <category>方法论</category>
       </categories>
       <tags>
         <tag>阅读与写作</tag>
@@ -232,8 +227,7 @@
   <entry>
     <title>行业报告汇总</title>
     <url>/2018/07/17/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A%E6%B1%87%E6%80%BB/</url>
-    <content><![CDATA[<center>**中国人工智能发展报告2018**</center>
-<a id="more"></a>
+    <content><![CDATA[<h1 id="中国人工智能发展报告2018"><a href="#中国人工智能发展报告2018" class="headerlink" title="中国人工智能发展报告2018"></a>中国人工智能发展报告2018</h1><a id="more"></a>
 <br>
 
 
@@ -244,7 +238,7 @@
 
 ]]></content>
       <categories>
-        <category>行业报告</category>
+        <category>科技报告</category>
       </categories>
       <tags>
         <tag>报告</tag>
@@ -253,8 +247,7 @@
   <entry>
     <title>论文研究笔记</title>
     <url>/2018/05/30/%E8%AE%BA%E6%96%87%E7%A0%94%E7%A9%B6%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<center>**记忆神经网络**</center>
-<br>
+    <content><![CDATA[<h1 id="记忆神经网络"><a href="#记忆神经网络" class="headerlink" title="记忆神经网络"></a>记忆神经网络</h1><br>
 
 
 	<div class="row">
@@ -311,7 +304,7 @@
 <h2 id="计算机视觉（CV）"><a href="#计算机视觉（CV）" class="headerlink" title="计算机视觉（CV）"></a>计算机视觉（CV）</h2><p><a href="https://mp.weixin.qq.com/s/0Kt22jsp4J5akCJzZ9Es_w" target="_blank" rel="noopener">计算机视觉已超越人类眼睛？腾讯优图与《科学》杂志全面解读–来源：腾讯优图</a></p>
 <h2 id="云计算"><a href="#云计算" class="headerlink" title="云计算"></a>云计算</h2><h2 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h2><h2 id="深度学习"><a href="#深度学习" class="headerlink" title="深度学习"></a>深度学习</h2>]]></content>
       <categories>
-        <category>技术</category>
+        <category>技术博客汇总</category>
       </categories>
       <tags>
         <tag>博客汇总</tag>
@@ -325,7 +318,7 @@
 <p><img src="/.top//1.jpg" alt="风景1">)<img src="/.top//2.jpg" alt="风景2"><br><img src="/.top//3.jpg" alt="风景3">)<img src="/.top//4.jpg" alt="风景4"></p>
 ]]></content>
       <categories>
-        <category>随手记</category>
+        <category>个人随笔</category>
       </categories>
       <tags>
         <tag>随手拍</tag>
@@ -339,7 +332,7 @@
 <p>跑步、早起、主动学习、列计划、独处…自律真的能改变人生？？<br>2018年是我下决心改变的一年，很久没有坚持很久做一件事了，都是快节奏的生活。不敢说它能真的带给我开天辟地的改变但方向正确，坚持就是有意义的！<br>能不能改变人生，我心里并没有答案，至少现在没有。能改变那是顺其自然，不能改变我想也必有收获，最基本坚持了不为什么的坚持。<br><img src="/.top//%E6%94%B9%E5%8F%98.jpg" alt="改变"><br>有句话我还是挺有体会（个人想法）的—“我从未见过一个早起勤奋谨慎诚实的人抱怨命运不好；良好的品格、优秀的习惯，坚强的一直，是不会被假设所谓的命运击败的”。<br>周围人都说已经够努力了，但自己清楚自己的问题所在。人最难欺骗的是自己，最终都是需要“交学费”的！<br>坚持，仅喝几碗“鸡汤”坚持不久的，需要长期有意识的靠内在动力去要求自己也就是自律，最终变成习惯持续下去！<br>最近，坚持了这么久，也突然意识到，很多事情做不好可能我们真的不能只纠结于事情本身，看看其他方面有没有做好。没思路、没灵感，是不是休息不够？；没食欲，是不是缺少锻炼？没见识，是不是书读少了？hh……。<br>好熟悉的一句话，细细品味吧！see you!dear.<br><img src="/.top//%E6%94%B9%E5%8F%981.jpg" alt="改变1"><br>生活就像一盒巧克力，你永远不知道下一块会是什么味道。——《阿甘正传》 ​​​​</p>
 ]]></content>
       <categories>
-        <category>随手记</category>
+        <category>个人随笔</category>
       </categories>
       <tags>
         <tag>随笔</tag>
@@ -369,7 +362,7 @@
 </blockquote>
 <h2 id="others"><a href="#others" class="headerlink" title="others"></a>others</h2>]]></content>
       <categories>
-        <category>机器智能</category>
+        <category>机器智能论文阅读</category>
       </categories>
       <tags>
         <tag>论文</tag>
@@ -378,7 +371,7 @@
   <entry>
     <title>2017我在北京（壹）</title>
     <url>/2018/02/01/%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%842017%EF%BC%88%E5%A3%B9%EF%BC%89/</url>
-    <content><![CDATA[<h2 id="2017我在北京"><a href="#2017我在北京" class="headerlink" title="2017我在北京"></a><strong>2017我在北京</strong></h2><p>2017年4月21日，成都到北京的火车上，我脑海里不断回忆和想象，两者不断交织。</p>
+    <content><![CDATA[<h1 id="2017我在北京"><a href="#2017我在北京" class="headerlink" title="2017我在北京"></a>2017我在北京</h1><p>2017年4月21日，成都到北京的火车上，我脑海里不断回忆和想象，两者不断交织。</p>
 <a id="more"></a>
 <p>回忆，2013年高考完后那个暑假，第一次来到北京，那时的角色是一名游客，北京的大，北京的历史，北京的高楼林立，北京的长城等等，对于那时的我总觉得这里有很多东西去待我发现和感受，但是，终归匆匆过客，带着意犹未尽的心情，我离开了这座城市—北京。</p>
 <p>想象，时隔4年，2017年，飞机变火车，一群人变一个人，我带着内心的成长的渴望和大学教给我的一切，带着四年前那个暑假意犹未尽的心情，我重新来到这座城市—北京，这一次的角色是一名工作者，北京的天、北京的交通、北京的房租、北京竞争等等，对于这时的我总觉得这里有很多东西待我去面对和克服。时至2018年2月1日，一待就是大半年，匆匆过客，终因缘分而久久驻足。我畅想着这里的每条路、每栋建筑、每棵树……。</p>
@@ -389,6 +382,9 @@
 <p>各位小伙伴，今天就写在这里，改天再写啦。</p>
 <p>2018年2月1日星期四</p>
 ]]></content>
+      <categories>
+        <category>个人随笔</category>
+      </categories>
       <tags>
         <tag>随笔</tag>
       </tags>
@@ -396,7 +392,7 @@
   <entry>
     <title>2017年度总结</title>
     <url>/2017/12/31/2017%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<h2 id="收获的2017"><a href="#收获的2017" class="headerlink" title="收获的2017"></a><strong>收获的2017</strong></h2><hr>
+    <content><![CDATA[<h1 id="收获的2017"><a href="#收获的2017" class="headerlink" title="收获的2017"></a>收获的2017</h1><hr>
 <p>23岁啦！嗯，又老了。若干年后……</p>
 <a id="more"></a>
 <p>2017，主要是考研复试、工作面试，实习、毕业 、工作、考研，其中考研复试在2月中下旬到4月中下旬，两个多月的时间；工作实习在4月中旬到5月中旬；毕业事宜在5月中旬到6月中下旬。工作在6月到12月。走过了重庆、南昌、北京三个城市，共使用7张火车票，爬了海拔3039米的峨眉山，行走70.85公里，读了9本课外书，聚了几次餐，开会若干。用几个词总结下上半年：选择多，走的多，看的多，做的多，感受多，收获多。</p>
@@ -410,6 +406,9 @@
 <p>一年又一年的总结，不变的是我一直执着的坚持，追求自己想要的生活，做好自己的本职工作，同时，能服务于社会就更好！2017，终究是难忘的一年，有太多的美好记忆，感恩身边每一个帮助自己的人，感恩自己的父母、亲人、朋友的支持和建议。我坚信一个信条：真诚待人、谦虚好学、执着坚持、肯于吃苦！</p>
 <pre><code>       李航航
 2017年12月31日（新年前夕）</code></pre>]]></content>
+      <categories>
+        <category>个人总结</category>
+      </categories>
       <tags>
         <tag>年度总结</tag>
       </tags>
@@ -417,7 +416,7 @@
   <entry>
     <title>2016年度总结</title>
     <url>/2016/12/31/2016%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<h2 id="难忘的2016"><a href="#难忘的2016" class="headerlink" title="难忘的2016"></a><strong>难忘的2016</strong></h2><hr>
+    <content><![CDATA[<h1 id="难忘的2016"><a href="#难忘的2016" class="headerlink" title="难忘的2016"></a>难忘的2016</h1><hr>
 <p>时间来到了2016年12月31日，2016即将结束，马上迎来新的一年。回望过去的一年，生活平平淡淡。在校学习、社团工作、备战考研成了这一年的生活主线。这一年我觉得自己很好的验证了一句很熟的话—累并快乐。</p>
 <a id="more"></a>
 <p>先说一个词“累”，呵呵。对于一个20出头的小伙子，这不正是精力旺盛，积极向上有活力的时间吗？想想的确也是。这正是成长的必过关，累则证明自己要承担更多的责任，面对更大的挑战，解决更为复杂的问题。所以累是自己从青涩逐步走向成熟的标志。这种累是来自各方面的。仔细回想，自己现在所谓的累只是一种表象而已，更多的是不适。这一年经历了大三专业课的集中学习到大四的实习与考研的选择。其中有不知如何也有迷茫，认真思考自己选择了深造，在大半年的复习备考中有徘徊有放弃的念头，因为这是一个未知结果的事业。正因为未知，才具有挑战性，更能考验一个人。自己毅然坚持。经常说重在尝试、过程但是当你真正付诸行动时，结果对你又是何等的重要。离考试结束已经一周时间了。自己心里对这次考试没有多大把握，但我也不会对这半年付出的时间就、精力而觉得浪费。同样是对人的一次历练，一次完整坚持到最后追求目标的过程。这样获得感是内在它会潜移默化的表现在今后的生活、学习、工作当中。可以说所留印象不亚于高考，与高考不同的事考研将要面临更为复杂的心理，更有各方面的压力。这对自己的成长有着积极的作用。</p>
@@ -427,6 +426,9 @@
 <pre><code>2016年12月31日星期六
     （2017新年前一天）
             李航航</code></pre>]]></content>
+      <categories>
+        <category>个人总结</category>
+      </categories>
       <tags>
         <tag>年度总结</tag>
       </tags>
@@ -434,7 +436,7 @@
   <entry>
     <title>2015年度总结</title>
     <url>/2015/12/30/2015%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<h2 id="2015年生活、学习、工作总结"><a href="#2015年生活、学习、工作总结" class="headerlink" title="2015年生活、学习、工作总结"></a><strong>2015年生活、学习、工作总结</strong></h2><hr>
+    <content><![CDATA[<h1 id="2015年生活、学习、工作总结"><a href="#2015年生活、学习、工作总结" class="headerlink" title="2015年生活、学习、工作总结"></a>2015年生活、学习、工作总结</h1><hr>
 <p>时间一晃眼来到了2015年的最后一天啦，回忆这一年，自己觉得挺丰富的，无论在生活、学习还是工作，做了喜欢做的事，或许就是这样的感觉。用几个关键字总结这一年吧，有计划、有目标、有坚持、有放弃、有眼泪、有高兴、有失败、有收获、有成长、有突破，最后借用习总书记的一个词那就是有获得感。我也不知道用这所谓的几个词来概括这一年的经历正确与否，呵呵，我相信一点跟着心走。即使失败也无悔！哈哈，又谈人生了。</p>
 <a id="more"></a>
 <p>先谈谈生活，365个日子里每天都在想着法让每天都过的不一样，自己让每天的生活不一样，哪怕是一点点的不一样，这一年从一本书中读到生活是一门艺术，所以我极力体会这种艺术感的，每天相对规律的生活习惯，坚持了几年的作息表。坚持每天阅读、散步、总结、计划、坚持每周锻炼身体。这一年旅游的时间也相对多了，走出去看看，看风景，看到一个不一样的自己。其实吧，我还是喜欢上旅游了，有时间就计划去哪里走走看看，2016会去更多自己想去的地方的！世界那么大，我想去看看。2015年印象最深的还是苍溪的那帮可爱的小朋友，和他们几日时间的相处，我们像朋友间一样，一起生活、学习、玩耍。</p>
@@ -443,6 +445,9 @@
 <p>这只是一个小小总结，不全面，但还是纪念一下即将过去的2015，回忆一下在大学里所经历的，2015是一个智商和情商都在进步的一年，即便很小，感受到自己有变化自己很高兴，有成长、有奋斗的青春很精彩！</p>
 <pre><code>2015年12月30日晚
       李航航</code></pre>]]></content>
+      <categories>
+        <category>个人总结</category>
+      </categories>
       <tags>
         <tag>年度总结</tag>
       </tags>
