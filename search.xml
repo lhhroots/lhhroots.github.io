@@ -35,18 +35,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello everyone</title>
-    <url>/2021/01/03/hello-world/</url>
-    <content><![CDATA[<p>Hello, Welcome to my blog!</p>
-]]></content>
-      <categories>
-        <category>start</category>
-      </categories>
-      <tags>
-        <tag>hello</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2020年度总结</title>
     <url>/2021/01/01/2020%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</url>
     <content><![CDATA[<table><tr><td bgcolor=#660066><center><font size="5" color="white">终身难忘的2020</font></center></td></tr></table>
@@ -440,6 +428,50 @@
       </tags>
   </entry>
   <entry>
+    <title>行业报告汇总</title>
+    <url>/2018/07/17/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A%E6%B1%87%E6%80%BB/</url>
+    <content><![CDATA[<h1 id="中国人工智能发展报告2019"><a href="#中国人工智能发展报告2019" class="headerlink" title="中国人工智能发展报告2019"></a>中国人工智能发展报告2019</h1><a id="more"></a>
+<br>
+
+
+	<div class="row">
+    <embed src="./caai2019.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+
+<h1 id="中国人工智能发展报告2018"><a href="#中国人工智能发展报告2018" class="headerlink" title="中国人工智能发展报告2018"></a>中国人工智能发展报告2018</h1><br>
+
+
+	<div class="row">
+    <embed src="./清华大学中国科技政策研究中心-中国人工智能发展报告2018.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+
+]]></content>
+      <categories>
+        <category>科技报告</category>
+      </categories>
+      <tags>
+        <tag>报告</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello everyone</title>
+    <url>/2021/01/03/hello-world/</url>
+    <content><![CDATA[<p>Hello, Welcome to my blog!</p>
+]]></content>
+      <categories>
+        <category>start</category>
+      </categories>
+      <tags>
+        <tag>hello</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>知识图谱关键技术与问答系统</title>
     <url>/2019/10/27/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E4%B8%8E%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h1 id="知识图谱"><a href="#知识图谱" class="headerlink" title="知识图谱"></a>知识图谱</h1><a id="more"></a>
@@ -649,38 +681,6 @@
       </categories>
       <tags>
         <tag>阅读与写作</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>行业报告汇总</title>
-    <url>/2018/07/17/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A%E6%B1%87%E6%80%BB/</url>
-    <content><![CDATA[<h1 id="中国人工智能发展报告2019"><a href="#中国人工智能发展报告2019" class="headerlink" title="中国人工智能发展报告2019"></a>中国人工智能发展报告2019</h1><a id="more"></a>
-<br>
-
-
-	<div class="row">
-    <embed src="./caai2019.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-
-
-<h1 id="中国人工智能发展报告2018"><a href="#中国人工智能发展报告2018" class="headerlink" title="中国人工智能发展报告2018"></a>中国人工智能发展报告2018</h1><br>
-
-
-	<div class="row">
-    <embed src="./清华大学中国科技政策研究中心-中国人工智能发展报告2018.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-
-
-]]></content>
-      <categories>
-        <category>科技报告</category>
-      </categories>
-      <tags>
-        <tag>报告</tag>
       </tags>
   </entry>
   <entry>

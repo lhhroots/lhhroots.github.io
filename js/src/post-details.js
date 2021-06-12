@@ -3,8 +3,10 @@
 $(document).ready(function () {
 
   initScrollSpy();
+  NexT.utils.needAffix() && initAffix();
+  initTOCDimension();
 
-  function initScrollSpy() {
+  function initScrollSpy () {
     var tocSelector = '.post-toc';
     var $tocElement = $(tocSelector);
     var activeCurrentSelector = '.active-current';
@@ -15,18 +17,65 @@ $(document).ready(function () {
 
         removeCurrentActiveClass();
         $currentActiveElement.addClass('active-current');
-
-        // Scrolling to center active TOC element if TOC content is taller then viewport.
-        $tocElement.scrollTop($currentActiveElement.offset().top - $tocElement.offset().top + $tocElement.scrollTop() - ($tocElement.height() / 2));
       })
       .on('clear.bs.scrollspy', removeCurrentActiveClass);
 
-    $('body').scrollspy({target: tocSelector});
+    $('body').scrollspy({ target: tocSelector });
 
-    function removeCurrentActiveClass() {
+    function removeCurrentActiveClass () {
       $(tocSelector + ' ' + activeCurrentSelector)
         .removeClass(activeCurrentSelector.substring(1));
     }
+  }
+
+  // Sidebar float
+  function initAffix () {
+    var headerHeight = $('.header-inner').height();
+    var footerOffset = parseInt($('.main').css('padding-bottom'), 10);
+
+    /*jshint camelcase: false */
+    var sidebarTop = (CONFIG.sidebar.offset_float === 0) ?
+      headerHeight + CONFIG.sidebar.offset :
+      headerHeight;
+    /*jshint camelcase: true */
+
+    $('.sidebar-inner').affix({
+      offset: {
+        top: sidebarTop,
+        bottom: footerOffset
+      }
+    });
+
+    $(document)
+      .on('affixed.bs.affix', function () {
+        updateTOCHeight(document.body.clientHeight - 100);
+      });
+  }
+
+  function initTOCDimension () {
+    var updateTOCHeightTimer;
+
+    $(window).on('resize', function () {
+      updateTOCHeightTimer && clearTimeout(updateTOCHeightTimer);
+
+      updateTOCHeightTimer = setTimeout(function () {
+        var tocWrapperHeight = document.body.clientHeight - 100;
+
+        updateTOCHeight(tocWrapperHeight);
+      }, 0);
+    });
+
+    // Initialize TOC Height.
+    updateTOCHeight(document.body.clientHeight - 100);
+
+    // Initialize TOC Width.
+    var scrollbarWidth = NexT.utils.getScrollbarWidth();
+    $('.post-toc').css('width', 'calc(100% + ' + scrollbarWidth + 'px)');
+  }
+
+  function updateTOCHeight (height) {
+    height = height || 'auto';
+    $('.post-toc').css('max-height', height);
   }
 
 });
@@ -54,12 +103,12 @@ $(document).ready(function () {
           .velocity('transition.slideDownIn', TAB_ANIMATE_DURATION)
           .addClass(activePanelClassName);
       }) :
-      currentTarget.animate({opacity: 0}, TAB_ANIMATE_DURATION, function () {
+      currentTarget.animate({ opacity: 0 }, TAB_ANIMATE_DURATION, function () {
         currentTarget.hide();
         target
           .stop()
           .css({'opacity': 0, 'display': 'block'})
-          .animate({opacity: 1}, TAB_ANIMATE_DURATION, function () {
+          .animate({ opacity: 1 }, TAB_ANIMATE_DURATION, function () {
             currentTarget.removeClass(activePanelClassName);
             target.addClass(activePanelClassName);
           });
@@ -77,7 +126,7 @@ $(document).ready(function () {
 
     hasVelocity ?
       html.velocity('stop').velocity('scroll', {
-        offset: offset + 'px',
+        offset: offset  + 'px',
         mobileHA: false
       }) :
       $('html, body').stop().animate({
@@ -88,12 +137,12 @@ $(document).ready(function () {
   // Expand sidebar on post detail page by default, when post has a toc.
   var $tocContent = $('.post-toc-content');
   var isSidebarCouldDisplay = CONFIG.sidebar.display === 'post' ||
-    CONFIG.sidebar.display === 'always';
+      CONFIG.sidebar.display === 'always';
   var hasTOC = $tocContent.length > 0 && $tocContent.html().trim().length > 0;
   if (isSidebarCouldDisplay && hasTOC) {
-    CONFIG.motion.enable ?
+    CONFIG.motion ?
       (NexT.motion.middleWares.sidebar = function () {
-        NexT.utils.displaySidebar();
+          NexT.utils.displaySidebar();
       }) : NexT.utils.displaySidebar();
   }
 });
