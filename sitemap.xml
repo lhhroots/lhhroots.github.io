@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lihanghang.top/photos/index.html</loc>
+    
+    <lastmod>2021-06-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lihanghang.top/2021/04/26/2021%E4%B8%AA%E4%BA%BA%E9%98%85%E8%AF%BB/</loc>
     
     <lastmod>2021-06-12</lastmod>
@@ -219,13 +226,6 @@
   </url>
   
   <url>
-    <loc>https://lihanghang.top/photos/index.html</loc>
-    
-    <lastmod>2019-11-10</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://lihanghang.top/tags/index.html</loc>
     
     <lastmod>2019-01-22</lastmod>
@@ -270,14 +270,14 @@
   </url>
   
   <url>
-    <loc>https://lihanghang.top/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://lihanghang.top/tags/hello/</loc>
     <lastmod>2021-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://lihanghang.top/tags/hello/</loc>
+    <loc>https://lihanghang.top/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2021-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -312,7 +312,7 @@
   </url>
   
   <url>
-    <loc>https://lihanghang.top/tags/%E9%98%85%E8%AF%BB%E4%B8%8E%E5%86%99%E4%BD%9C/</loc>
+    <loc>https://lihanghang.top/tags/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://lihanghang.top/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://lihanghang.top/tags/%E9%98%85%E8%AF%BB%E4%B8%8E%E5%86%99%E4%BD%9C/</loc>
     <lastmod>2021-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
